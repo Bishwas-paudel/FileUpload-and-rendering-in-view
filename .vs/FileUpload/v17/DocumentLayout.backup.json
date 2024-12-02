@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FileUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\views\\fileupload\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\views\\fileupload\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\models\\formdatacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\models\\formdatacs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|c:\\users\\user\\source\\repos\\fileupload\\fileupload\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C5107EC-F3DA-41DD-8159-5FF247699900}|FileUpload\\FileUpload.csproj|solutionrelative:fileupload\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\appsettings.json",
+              "RelativeDocumentMoniker": "FileUpload\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\appsettings.json",
+              "RelativeToolTip": "FileUpload\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T09:56:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Views\\FileUpload\\Upload.cshtml",
+              "RelativeDocumentMoniker": "FileUpload\\Views\\FileUpload\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Views\\FileUpload\\Upload.cshtml",
+              "RelativeToolTip": "FileUpload\\Views\\FileUpload\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:38:41.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "FileUpload\\Controllers\\FileUploadController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:21:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Models\\FileUploadModel.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Models\\FileUploadModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Models\\FileUploadModel.cs",
+              "RelativeToolTip": "FileUpload\\Models\\FileUploadModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:19:05.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FileUpload\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:09:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDatacs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Models\\FormDatacs.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Models\\FormDatacs.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Models\\FormDatacs.cs",
+              "RelativeToolTip": "FileUpload\\Models\\FormDatacs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:38:57.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FileUpload\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FileUpload\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:34:05.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileUpload\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FileUpload\\FileUpload\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FileUpload\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T05:30:02.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
